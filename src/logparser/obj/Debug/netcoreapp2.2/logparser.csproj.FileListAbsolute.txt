@@ -1,0 +1,11 @@
+C:\Users\abhijeetm\logparser\src\logparser\bin\Debug\netcoreapp2.2\logparser.deps.json
+C:\Users\abhijeetm\logparser\src\logparser\bin\Debug\netcoreapp2.2\logparser.runtimeconfig.json
+C:\Users\abhijeetm\logparser\src\logparser\bin\Debug\netcoreapp2.2\logparser.runtimeconfig.dev.json
+C:\Users\abhijeetm\logparser\src\logparser\bin\Debug\netcoreapp2.2\logparser.dll
+C:\Users\abhijeetm\logparser\src\logparser\bin\Debug\netcoreapp2.2\logparser.pdb
+C:\Users\abhijeetm\logparser\src\logparser\obj\Debug\netcoreapp2.2\logparser.csprojAssemblyReference.cache
+C:\Users\abhijeetm\logparser\src\logparser\obj\Debug\netcoreapp2.2\logparser.csproj.CoreCompileInputs.cache
+C:\Users\abhijeetm\logparser\src\logparser\obj\Debug\netcoreapp2.2\logparser.AssemblyInfoInputs.cache
+C:\Users\abhijeetm\logparser\src\logparser\obj\Debug\netcoreapp2.2\logparser.AssemblyInfo.cs
+C:\Users\abhijeetm\logparser\src\logparser\obj\Debug\netcoreapp2.2\logparser.dll
+C:\Users\abhijeetm\logparser\src\logparser\obj\Debug\netcoreapp2.2\logparser.pdb
