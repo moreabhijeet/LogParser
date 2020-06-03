@@ -11,7 +11,7 @@
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/bin/Debug/netcoreapp2.2/logparser.dll",
-            "args": [],
+            "args": ["--log-dir", "C:/Users/abhijeetm/logparser/", "--csv", "C:/Users/abhijeetm/logparser/src/logparser/log.csv" ],
             "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
